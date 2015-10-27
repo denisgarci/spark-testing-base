@@ -18,6 +18,7 @@
 """Simple test example"""
 
 from sparktestingbase.testcase import SparkTestingBaseTestCase
+import unittest2
 
 
 class HelloWorldTest(SparkTestingBaseTestCase):
